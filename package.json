@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "timeago.js": "^4.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
